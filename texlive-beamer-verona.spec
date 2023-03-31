@@ -1,6 +1,6 @@
 Name:		texlive-beamer-verona
 Version:	39180
-Release:	1
+Release:	2
 Summary:	A theme for the beamer class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamer-verona
